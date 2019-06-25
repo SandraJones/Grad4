@@ -1,0 +1,16 @@
+.firstBlock {
+	text-align: center; 
+	background-color: #a6b1a0;
+}
+.vocation  {
+	font-weight: 400;
+}
+.resume {
+	color: black;
+	padding-bottom: 30px;
+}
+a {
+    color: black;
+    text-decoration: none;
+    background-color: transparent;
+}
