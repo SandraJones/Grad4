@@ -14,3 +14,30 @@ a {
     text-decoration: none;
     background-color: transparent;
 }
+.MitchPhoto {
+	border-radius:50%;
+  	overflow:hidden;
+}
+.row {
+  display: flex;
+  padding-bottom: 30px;
+}
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+.FirstSection {
+	padding-top: 30px;
+	text-align: center;
+	background-color:  #a6b1a0;
+	padding-bottom: 80px;
+}
+.projectsTitle {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.SecondSectionDiv {
+	position: relative;
+	align-content: center;
+	flex: 50%;
+}
