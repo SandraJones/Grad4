@@ -21,6 +21,7 @@ a {
 .row {
   display: flex;
   padding-bottom: 30px;
+  margin-left: 100px;
 }
 .column {
   flex: 33.33%;
@@ -36,8 +37,23 @@ a {
 	padding-top: 30px;
 	padding-bottom: 30px;
 }
-.SecondSectionDiv {
+.SecondSection {
 	position: relative;
 	align-content: center;
 	flex: 50%;
+}
+.rightCol {
+	float: right;
+	padding-top: 30px;
+	margin-right: 200px;
+	font-size: 18px;
+	font-weight: 400;
+}
+footer {
+	text-align: center;
+	padding-top: 50px;
+}
+.contactInfo {
+	text-align: center;
+	padding-top: 50px;
 }
