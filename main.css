@@ -30,7 +30,7 @@ a {
 .FirstSection {
 	padding-top: 30px;
 	text-align: center;
-	background-color:  #a6b1a0;
+	
 	padding-bottom: 80px;
 }
 .projectsTitle {
@@ -56,4 +56,8 @@ footer {
 .contactInfo {
 	text-align: center;
 	padding-top: 50px;
+}
+
+body {
+	background-color:  #DDDDDD;
 }
