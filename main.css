@@ -1,7 +1,9 @@
 .firstBlock {
 	padding-top: 50px;
 	text-align: center; 
-	background-color: #a6b1a0;
+	font-family: 'Verdana';
+	float: left;
+	margin-left: 100px;
 }
 .vocation  {
 	font-weight: 400;
@@ -15,9 +17,13 @@ a {
     text-decoration: none;
     background-color: transparent;
 }
-.MitchPhoto {
-	border-radius:50%;
+.susanPhoto {
+	/*border-radius:50%;*/
+	float: right;
   	overflow:hidden;
+  	margin-right: 10px;
+  	margin-top: 20px;
+  	margin-left: 10px;
 }
 .row {
   display: flex;
@@ -29,14 +35,14 @@ a {
   padding: 5px;
 }
 .FirstSection {
-	padding-top: 30px;
+	padding-top: 200px;
 	text-align: center;
-	
 	padding-bottom: 80px;
 }
-.projectsTitle {
+.skillsTitle {
 	padding-top: 30px;
 	padding-bottom: 30px;
+	font-family: 'Verdana';
 }
 .SecondSection {
 	position: relative;
@@ -58,7 +64,10 @@ footer {
 	text-align: center;
 	padding-top: 50px;
 }
-
-body {
-	background-color:  #DDDDDD;
+ul { 
+	list-style-type: none;
+}
+.storySection {
+	padding-top: 200px;
+	position: relative;
 }
