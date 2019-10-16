@@ -71,7 +71,7 @@ header {
 img.volunteering {
 	width: 80%;
 	margin-left: 10%;
-	margin-right: 10%;
+	margin-right: 20%;
 }
 .vol {
 	padding-top: 20px;
@@ -83,5 +83,8 @@ h3 {
 	float: right;
 }
 li {
+	font-size: 20px;
+}
+p.contentSmall {
 	font-size: 20px;
 }
